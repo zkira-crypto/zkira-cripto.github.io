@@ -1,4 +1,4 @@
-# Zkira Cripto
+# Gabriel Rocha
 
 ## Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação
 
