@@ -38,5 +38,5 @@ Desenvolvi um projeto acadêmico relacionado ao desenvolvimento de uma solução
 ### Contato
 
 - [GitHub](https://github.com/zkira-cripto)
-- E-mail: seuemail@email.com
+- E-mail: gs0470053@email.com
 - [LinkedIn](https://www.linkedin.com/in/gabriel-rocha-1b9151275/)
