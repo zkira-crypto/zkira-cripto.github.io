@@ -25,7 +25,7 @@ Desenvolvi um projeto utilizando HTML como parte das atividades acadêmicas, apl
 [Ver projeto](https://github.com/zkira-cripto/projeto)
 
 #### meu site do TCC 
-desenvolvi um projeto para o TCC do meu ensino médio integrado a técnico de TI
+desenvolvi um projeto para o TCC do meu ensino médio integrado a técnico de TI no qual meu grupo fez um site turístico pra ubatuba
 o repositório não está na minha conta mas você pode acessar o site através desse link: 
 https://ubaexplorer.com.br/
 
